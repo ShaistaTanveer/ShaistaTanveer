@@ -1,6 +1,6 @@
-Full Stack MEAN Stack Developer | 1+ Year of Experience | Jtech Appz
+Full Stack (MEAN) Stack Developer | 2+ Year of Experience | Jtech Appz
 
-Hey there! 👋 I'm Shaista Tanveer, a dedicated Full Stack Developer with 1+ year of professional experience in web development. I'm currently a part of the talented team at Jtech Appz.
+Hey there! 👋 I'm Shaista Tanveer, a dedicated Full Stack Developer with 2+ year of professional experience in web development. I'm currently a part of the talented team at Jtech Appz.
 
 🚀 Skills & Experience:
 I specialize in the MEAN (MongoDB, Express.js, Angular, Node.js) stack and have a solid foundation in front-end technologies like HTML5, CSS3, and JavaScript. Throughout my journey, I've worked on several projects, both collaboratively and independently, gaining hands-on experience in building web applications.
